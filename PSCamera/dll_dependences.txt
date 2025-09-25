@@ -1,0 +1,20 @@
+- opencv_world470d.dll
+- KERNEL32.dll
+- gsense4040control_x64.dll
+- MSVCP140D.dll
+- VCRUNTIME140D.dll
+- VCRUNTIME140_1D.dll
+- ucrtbased.dll
+- USER32.dll
+
+- PvGUI64_VC10.dll
+- PvBase64.dll
+- PvDevice64.dll
+- PvGenICam64.dll
+- PvBuffer64.dll
+- PvStreamRaw64.dll
+- PvStream64.dll
+
+some dlls need to be installed by driver ".\Camera_Big\PSViewer_5.14.0_x64_win_10\Installer5.14.0x64_win10\PSViewer_Installer5.14.0x64_win10.exe"
+please unzip Camera_Big.7z first
+
