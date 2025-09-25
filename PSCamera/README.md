@@ -1,7 +1,7 @@
 ### Instructions
 - The dir ```document``` includes document about **X-ray sCMOS 16MP Detector** designed by ***PHOTONIC SCIENCE***.
 - Dir ```Configuration_files``` mainly includes some necessary config_files.
-- The ```Camera_Big.7z``` is zipped by part for it's too large and need to be unzipped and install the driver program.
+- The [Camera_Big.7z](https://drive.google.com/drive/folders/1Hjb6XNIepo_Oe_Tbk-gN7_TfVgP5L2-i?usp=sharing) is zipped by part for it's too large and need to be unzipped and install the driver program.
 - You can modify the ```PSCameraServer``` according to the interfaces provided by ```PS_camera.dll```.
 - some dlls need to be installed by driver ```".\Camera_Big\PSViewer_5.14.0_x64_win_10\Installer5.14.0x64_win10\PSViewer_Installer5.14.0x64_win10.exe"```
 please unzip Camera_Big.7z first
